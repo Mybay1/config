@@ -1,2 +1,2 @@
-@echo off
-./hellminer -c stratum+tcp://na.luckpool.net:3960 -u RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX.Rig001 -p x --cpu 4
+.\hellminer.exe -c stratum+tcp://na.luckpool.net:3960 -u RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX -p x --cpu 4
+
