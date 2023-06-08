@@ -1,4 +1,1 @@
-@echo off
-for /L %%a in (1,1,10) do (
-    "nircmd win hide title "Script1"
-)
+nircmd win hide title "Script1"
